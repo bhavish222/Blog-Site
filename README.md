@@ -1,3 +1,3 @@
 # Blog-Site
-This is Front-end project Blog-site.
-Technology used in this site : React
+This is Blog-Site created in React as a front-end project.
+It provides information about travel, bollywood, food etc.
